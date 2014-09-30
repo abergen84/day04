@@ -1,0 +1,42 @@
+.container{
+	width: 100%;
+	display: block;
+	color: white;
+	margin: auto;
+	font-family: Arial;
+}
+
+.header{
+	width: 100%;
+	background-color: blue;
+	height: 50px;
+	text-align: center;
+}
+
+.column{
+	display: inline-block;
+	background-color: blue;
+	width: 33%;
+	float: auto;
+	margin: 0 auto;
+	padding: 0;
+}
+
+form{
+	margin: 0 auto;
+	width: 300px;
+	padding: 1em;
+
+}
+
+input{
+	display: block;
+	width: 200px;
+	border: 1px solid white;
+	height: 25px;
+}
+
+textarea{
+	display: block;
+}
+
